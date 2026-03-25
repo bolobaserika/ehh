@@ -1,8 +1,5 @@
 # OpenPLC
-# 
-#
-#
-#
+
 
 ## Mi is az az OpenPLC ?
  * Nyílt forráskodú 
